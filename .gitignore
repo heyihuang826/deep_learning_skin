@@ -1,0 +1,14 @@
+.venv/
+FixCaps/Module/datasets/
+resource/
+*.code-workspace
+modify.md
+__pycache__/
+FixCaps/augmentation/test_dir/
+FixCaps/augmentation/test_001/
+FixCaps/augmentation/train_dir/
+FixCaps/augmentation/train525s8/
+FixCaps/augmentation/val525s8/
+FixCaps/augmentation/Images/
+FixCaps/skin_lesion/
+datasets
